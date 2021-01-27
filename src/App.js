@@ -44,7 +44,8 @@ function App() {
     const userRef = db.collection('users').add({
       name,
       email,
-      number
+      number,
+      time: new Date()
     });
 
     changeThanks(true)

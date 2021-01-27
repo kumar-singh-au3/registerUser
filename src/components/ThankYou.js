@@ -9,6 +9,7 @@ const ThankYou = () => {
         <div className="right-hole"></div>
         <div className="main-content">
           <h1>Success! You are registered.</h1>
+          <h3>We will contact you soon</h3>
           <p>
             Thank you for registered, it means a lot to us, just like you do! We
             really appreciate you giving us a moment of your time.
